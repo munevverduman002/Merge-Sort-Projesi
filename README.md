@@ -18,4 +18,5 @@ Proje 2
 
 
 *Big-O gösterimini yazınız.
+
  Big-O = O(nlogn)
